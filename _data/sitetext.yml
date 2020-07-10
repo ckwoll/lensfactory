@@ -1,8 +1,8 @@
 header:
     title: DESI Legacy Surveys Strong Lens Search
     text: "The Lens Factory"
-    button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    button: Latest Publication
+    buttonlink: "https://arxiv.org/abs/2005.04730" # "#{section}" or "URL/page link"
 
 publications:
     title: "Publications"
