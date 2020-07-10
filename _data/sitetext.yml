@@ -4,8 +4,8 @@ header:
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
-services:
-    title: "Services"
+publications:
+    title: "Publications"
     text: "Lorem ipsum"
     section: services
     list:
@@ -19,8 +19,8 @@ services:
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-portfolio:
-    title: "Portfolio"
+News & Press:
+    title: "News & Press"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     
