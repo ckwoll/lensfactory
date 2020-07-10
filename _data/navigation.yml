@@ -1,7 +1,4 @@
 nav:
-  - title: "Home"
-    section: home
-
   - title: "Publications"
     section: publications
     
