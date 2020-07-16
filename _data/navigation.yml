@@ -5,21 +5,5 @@ nav:
   - title: "About"
     url: about.html
 
-#  - title: "News & Press"
-#    section: timeline
-
-#  - title: "Hubble Program"
-#    section: hubble program
-
-
-#  - title: "Team Members"
-##    section: team members
-
-#  - title: "Contact"
-#    section: contact
-
-#  - title: "Internal"
-#    section: internal
-
   - title: "Theme Source"
     url: https://github.com/raviriley/agency-jekyll-theme/
