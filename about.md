@@ -3,4 +3,4 @@ title: About Us
 layout: page
 ---
 
-# This is a sample page.
+# We find strong gravitational lensing. A lot of it.
