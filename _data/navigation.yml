@@ -16,10 +16,10 @@ nav:
 ##    section: team members
 
 #  - title: "Contact"
-    section: contact
+#    section: contact
 
 #  - title: "Internal"
 #    section: internal
 
-#  - title: "Theme Source"
+  - title: "Theme Source"
     url: https://github.com/raviriley/agency-jekyll-theme/
