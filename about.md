@@ -1,6 +1,6 @@
 ---
 title: About Us
-layout: page
+layout: home
 ---
 
 # This is a sample page.
