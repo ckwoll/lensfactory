@@ -1,7 +1,10 @@
 nav:
   - title: "Publications"
     section: publications
-    
+
+  - title: "Publications"
+    url: about.html
+
   - title: "News & Press"
     section: timeline
 
@@ -10,13 +13,13 @@ nav:
 
   - title: "Known Strong Lens Catalogues"
     section: known strong lens catalogues
-    
+
   - title: "Team Members"
     section: team members
-  
+
   - title: "Contact"
     section: contact
-    
+
   - title: "Internal"
     section: internal
 
