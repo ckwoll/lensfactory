@@ -6,10 +6,8 @@ nav:
     url: about.html
 
   - title: Known Lenses
-    subfolderitems:
-      - page: Item 1
-        url: /about.html
-      - page: Item 2
-        url: /about.html
-      - page: Item 3
-        url: /about.html
+    subcategories:
+    - subtitle: "Example1"
+      subhref: "#"
+    - subtitle: "Example2"
+      subhref: "#"
