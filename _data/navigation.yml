@@ -5,5 +5,11 @@ nav:
   - title: "About"
     url: about.html
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+  - title: Known Lenses
+    subfolderitems:
+      - page: Item 1
+        url: /about.html
+      - page: Item 2
+        url: /about.html
+      - page: Item 3
+        url: /about.html
