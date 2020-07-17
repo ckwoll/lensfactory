@@ -7,7 +7,7 @@ nav:
 
   - title: Known Lenses
     subcategories:
-    - subtitle: "Example1"
-      subhref: "#"
-    - subtitle: "Example2"
-      subhref: "#"
+    - title: Example1
+      url: about.html
+    - title: Example2
+      url: about.html
