@@ -9,5 +9,7 @@ nav:
     url: known-lenses.html 
     subnav: 
      - title: "Galaxy-Galaxy Lensing" 
+       url: galaxy-galaxy-lensing.html 
+    
      
     
