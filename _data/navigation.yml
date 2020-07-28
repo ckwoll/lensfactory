@@ -6,5 +6,8 @@ nav:
     url: about.html
 
   - title: "Known Lenses"
-    url: knownlenses.html 
+    url: known-lenses.html 
+    subnav: 
+     - title: "Galaxy-Galaxy Lensing" 
+     
     
