@@ -7,7 +7,10 @@ nav:
 
   - title: Known Lenses
     subcategories:
-    - title: Example1
-      url: about.html
-    - title: Example2
-      url: about.html
+    - title: "Galaxy-Galaxy Lensing" 
+      url: galaxy-galaxy lensing.html
+    - title: "Strong Lensing in Galaxy Clusters & Groups"
+      url: strong lensing in galaxy clusters & groups.html
+    - title: "Lensed Quasars"
+      url: lensed quasars.html 
+ 
