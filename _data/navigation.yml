@@ -10,6 +10,10 @@ nav:
     subnav: 
      - title: "Galaxy-Galaxy Lensing" 
        url: galaxy-galaxy-lensing.html 
+     - title: "Group/Cluster Lenses"
+       url: group/cluster-lenses.html
+     - title: "Lensed Quasars" 
+       url: lensed-quasars.html 
     
      
     
