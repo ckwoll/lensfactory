@@ -1,6 +1,6 @@
 nav:
   - title: "Publications"
-    section: publications
+    url: publications.html
 
   - title: "About"
     url: about.html
