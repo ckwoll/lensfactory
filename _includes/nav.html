@@ -1,9 +1,9 @@
 <ul>
-  {% for Known Lenses in include.nav %}
-    <li><a href="{{ known-lenses.url }}">{{ Known Lenses.title }}</a></li>
+  {% for item in include.nav %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 
-    {% if Galaxy-Galaxy Lensing.subnav %}
-      {% include nav.html nav=galaxy-galaxy-lensing.subnav %}
+    {% if item.subnav %}
+      {% include nav.html nav=item.subnav %}
     {% endif %}
   {% endfor %}
 </ul>
