@@ -1,1 +1,6 @@
-publications
+---
+title: Publications
+layout: page
+---
+
+# Publications
