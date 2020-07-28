@@ -6,7 +6,7 @@ nav:
     url: about.html
 
   - title: "Known Lenses"
-    url: known lenses.html 
+    url: knownlenses.html 
     subcategories:
     - title: "Galaxy-Galaxy Lensing" 
       url: galaxy-galaxy lensing.html
