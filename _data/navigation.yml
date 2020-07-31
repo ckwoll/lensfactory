@@ -1,7 +1,10 @@
 nav:
   - title: "Publications"
     url: /publications.html
-
+  
+  - title: "News & Press"
+    url: /news-&-press.html
+    
   - title: "About"
     url: /about.html
 
