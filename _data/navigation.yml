@@ -23,4 +23,6 @@ nav:
     
   - title: "Team Members"
     url: team-members.html 
-    
+  
+  - title: "Contact"
+    url: contact.html
