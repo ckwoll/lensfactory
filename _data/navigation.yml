@@ -1,15 +1,15 @@
 nav:
   - title: "Publications"
-    url: /publications.html
+    url: publications.html
   
   - title: "News & Press"
-    url: /news-&-press.html
+    url: news-&-press.html
     
   - title: "About"
-    url: /about.html
+    url: about.html
 
   - title: "Known Lenses"
-    url: /known-lenses.html 
+    url: known-lenses.html 
     subnav: 
      - title: "Galaxy-Galaxy Lensing" 
        url: galaxy-galaxy-lensing.html 
