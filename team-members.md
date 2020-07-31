@@ -7,33 +7,42 @@ layout: page
 ---------------------------
 #### Current Team Members: 
 
-Xiaosheng Huang 
-(University of San Francisco, Physics and Astronomy)
-
-David Schlegel 
-(Senior Scientist, Physics Division, Lawrence Berkeley National Laboratory, Project Scientist of DESI)
-
-Saurav Banka 
-(University of California, Berkeley, Electrical Engineering and Computer Science)
-
-Cutter Dawes 
-(Princeton University, Physics)
-
-Andi Gu
-(University of California, Berkeley, Physics and Computer Science)
-
-Rohith Sajith 
-(University of California, Berkeley, Physics and Computer Science)
-
-William Sheu 
-(University of California, Berkeley, Physics and Computer Science)
-
-Christopher Storfer 
-(University of San Francisco, Physics and Astronomy)
-
-Christian Woll
-(University of San Francisco, Physics and Astronomy, Mathematics)
-
+team members:
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
+    people:
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Larry Parker"
+        role: "Lead Marketer"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
 ------------------------------
 #### Former Team Members:
 
