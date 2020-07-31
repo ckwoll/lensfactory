@@ -35,7 +35,7 @@ Christian Woll
 (University of San Francisco, Physics and Astronomy, Mathematics)
 
 ------------------------------
-Former Team Members:
+#### Former Team Members:
 
 Matthew Domingo 
 (University of San Francisco, Computer Science) –currently at Google
